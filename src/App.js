@@ -38,7 +38,7 @@ function App() {
     },
     {
       url:image6,
-      title:"car2",
+      title:"ferrari F9",
       description:"The definition of a supercar describes an expensive car that's flashy"
     },
   ]
