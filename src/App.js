@@ -7,7 +7,6 @@ import image4 from './images/image4.jpeg'
 import image5 from './images/image5.jpeg'
 import image6 from './images/image6.jpeg'
 
-import React,{useState} from 'react'
 
 
 function App() {
